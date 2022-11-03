@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "theobald.bossbar.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BossBarHudMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
